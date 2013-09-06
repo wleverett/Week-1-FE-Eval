@@ -1,0 +1,78 @@
+html {
+	background-color: white;
+	font-family: "Tahoma";
+}
+
+.topdiv {
+	height: 100px;
+	background-color: #white;
+}
+
+.topimage {
+	float: left;
+	padding: 30px 200px 0px 150px;
+	background-color: #white 	;
+	width: 150px;
+	height: 50px;
+}
+
+nav {
+	float: right;
+	width: auto;
+	display: inline;
+	position: absolute;
+	height: 100px;
+	color: #2F4F4F;
+	text-align: center;
+}
+
+
+li {
+	display: inline;
+	float: left;
+	text-align: center;
+	padding: 12px 15px 0 15px;
+}
+
+.content {
+	background-image:url('austin.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+
+.contentimage {
+	height: 400px;
+	width: 550px;
+	float: left;
+}
+
+.formsidecontent {
+	height: 400px;
+	width: 500px;
+	float: left;
+}
+
+.formsidetext1 {
+	font-size: 24px;
+	padding: 65px 0 0 90px;
+	font-weight: bold;
+}
+
+.formsidetext2 {
+	padding: 20px 30px 20px 89px;
+	clear: left;
+}
+
+.formsidediv {
+	display: inline;
+}
+
+.formsideform {
+	padding: 0 0 0 89px;
+	width: 126px;
+}
+
+.formsideformtext {
+	
+}
